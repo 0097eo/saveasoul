@@ -1,0 +1,47 @@
+/* General form styling */
+form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+}
+
+/* Styling for labels */
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+
+/* Styling for input fields */
+input[type="text"], textarea {
+    width: 94%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+/* Styling for textarea */
+textarea {
+    height: 150px;
+    resize: none; /* Prevents resizing of the textarea */
+}
+
+/* Styling for the submit button */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #11122b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+button:hover {
+    background-color: #222444;
+}
