@@ -1,0 +1,42 @@
+{
+   "animalData": [
+    {
+       "name": "Fluffy",
+       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Siam_lilacpoint.jpg",
+       "description": "A friendly and playful cat.",
+       "donation": 0
+    },
+    {
+       "name": "Max",
+       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dog_-_%E0%B4%A8%E0%B4%BE%E0%B4%AF-6.JPG/1280px-Dog_-_%E0%B4%A8%E0%B4%BE%E0%B4%AF-6.JPG",
+       "description": "A strong and loyal dog.",
+       "donation": 0
+    },
+    {
+       "name": "Bella",
+       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Huskiesatrest.jpg/1280px-Huskiesatrest.jpg",
+       "description": "A gentle and loving dog.",
+       "donation": 0
+    },
+    {
+       "name": "Beatrice",
+       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg",
+       "description": "A strong and fast horse.",
+       "donation": 0
+    },
+    {
+       "name": "Bruce",
+       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Brooks_Chase_Ranger_of_Jolly_Dogs_Jack_Russell.jpg",
+       "description": "A gentle and loving dog.",
+       "donation": 0
+    },
+    {
+       "name": "garfield",
+       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
+       "description": "A gentle and loving cat.",
+       "donation": 0
+    }
+   ]
+}
+
+   

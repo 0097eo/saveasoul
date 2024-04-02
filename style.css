@@ -3,45 +3,80 @@ form {
     width: 300px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f8f8f8;
+    background-color: #fff; /* Lighter background */
     border-radius: 5px;
-}
-
-/* Styling for labels */
-label {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for labels */
+  label {
     display: block;
     margin-bottom: 10px;
     font-size: 1.2rem;
-}
-
-/* Styling for input fields */
-input[type="text"], textarea {
+    color: #333;
+  }
+  
+  /* Styling for input fields */
+  input[type="text"], textarea {
     width: 94%;
     padding: 10px;
     margin-bottom: 20px;
-    border: 2px solid #333;
+    border: 2px solid #ccc; /* Lighter border color */
     border-radius: 5px;
     font-size: 1rem;
-}
-
-/* Styling for textarea */
-textarea {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    outline: none; /* Remove default outline */
+  }
+  
+  /* Focus state for input fields and button */
+  input[type="text"]:focus, textarea:focus, button:focus {
+    border-color: #007bff; /* Blue border on focus */
+  }
+  
+  /* Styling for textarea */
+  textarea {
     height: 150px;
-    resize: none; /* Prevents resizing of the textarea */
-}
-
-/* Styling for the submit button */
-button {
+    resize: none;
+  }
+  
+  /* Styling for the submit button */
+  button {
     width: 100%;
     padding: 10px;
-    background-color: #11122b;
+    background-image: linear-gradient(to right, #11122b, #222444); /* Gradient background */
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 1.2rem;
-}
-
-button:hover {
-    background-color: #222444;
-}
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-position: right; /* Move gradient on hover */
+  }
+  
+  /* Styling for the cards */
+  .card {
+    width: 500px;
+    height: 500px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .card:hover {
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+  }
+  
+  img {
+    width: 300px;
+    height: 300px;
+  }
+  
