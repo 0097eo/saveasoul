@@ -5,14 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ADOPTION</title>
     <link rel="stylesheet" href="style.css">
-    <script src="data.js"></script>
-
 </head>
 <body>
-    <form class="container">
+    <h1>Save A Soul</h1>
+    <form id="animal-form">
         <!-- First Label and Textbox -->
         <label for="label1">Name:</label>
-        <input type="text" id="label1" name="label1" placeholder="Enter your name"><br>
+        <input type="text" id="label1" name="label1" placeholder="Enter The Animal ou"><br>
 
         <!-- Second Label and Textbox -->
         <label for="label2">Image URL</label>
@@ -23,9 +22,9 @@
         <textarea id="label3" name="label3" rows="4" cols="50" placeholder="Enter description"></textarea><br>
 
         <!-- Button at the bottom -->
-        <button type="submit">Adopt Animal</button>
+        <button type="submit" id="saveasoul">Adopt Animal</button>
     </form>
     <ul id="animal-list" class="card"></ul>
-    <script defer src="index.js"></script>
+    <script src="index.js"></script>
 </body>
 </html>

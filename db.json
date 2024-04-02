@@ -1,42 +1,60 @@
 {
-   "animalData": [
+  "animalData": [
     {
-       "name": "Fluffy",
-       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Siam_lilacpoint.jpg",
-       "description": "A friendly and playful cat.",
-       "donation": 0
+      "name": "Fluffy",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Siam_lilacpoint.jpg",
+      "description": "A friendly and playful cat.",
+      "donation": 3000,
+      "id": "e313"
     },
     {
-       "name": "Max",
-       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dog_-_%E0%B4%A8%E0%B4%BE%E0%B4%AF-6.JPG/1280px-Dog_-_%E0%B4%A8%E0%B4%BE%E0%B4%AF-6.JPG",
-       "description": "A strong and loyal dog.",
-       "donation": 0
+      "name": "Max",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dog_-_%E0%B4%A8%E0%B4%BE%E0%B4%AF-6.JPG/1280px-Dog_-_%E0%B4%A8%E0%B4%BE%E0%B4%AF-6.JPG",
+      "description": "A strong and loyal dog.",
+      "donation": 7000,
+      "id": "e5e1"
     },
     {
-       "name": "Bella",
-       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Huskiesatrest.jpg/1280px-Huskiesatrest.jpg",
-       "description": "A gentle and loving dog.",
-       "donation": 0
+      "name": "Bella",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Huskiesatrest.jpg/1280px-Huskiesatrest.jpg",
+      "description": "A gentle and loving dog.",
+      "donation": 6000,
+      "id": "b59a"
     },
     {
-       "name": "Beatrice",
-       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg",
-       "description": "A strong and fast horse.",
-       "donation": 0
+      "name": "Beatrice",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg",
+      "description": "A strong and fast horse.",
+      "donation": 7000,
+      "id": "5755"
     },
     {
-       "name": "Bruce",
-       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Brooks_Chase_Ranger_of_Jolly_Dogs_Jack_Russell.jpg",
-       "description": "A gentle and loving dog.",
-       "donation": 0
+      "name": "Bruce",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Brooks_Chase_Ranger_of_Jolly_Dogs_Jack_Russell.jpg",
+      "description": "A gentle and loving dog.",
+      "donation": 3000,
+      "id": "0734"
     },
     {
-       "name": "garfield",
-       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
-       "description": "A gentle and loving cat.",
-       "donation": 0
+      "name": "garfield",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg",
+      "description": "A gentle and loving cat.",
+      "donation": 8000,
+      "id": "03f8"
+    },
+    {
+      "id": "cbc3",
+      "name": "Orangutan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG/800px-Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG",
+      "description": "A lazy ass bum",
+      "donation": 1000
+    },
+    {
+      "id": "614b",
+      "name": "Capybara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg/1280px-Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg",
+      "description": "The capybara[a] or greater capybara (Hydrochoerus hydrochaeris) is a giant cavy rodent native to South America. It is the largest living rodent[2] and a member of the genus Hydrochoerus.",
+      "donation": 2000
     }
-   ]
+  ]
 }
-
-   
